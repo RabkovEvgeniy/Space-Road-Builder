@@ -1,0 +1,43 @@
+fileFormatVersion: 2
+guid: 21ddac9800ebbbd4c9bc4f66603a35d8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - _main: {fileID: 4578931261753338703, guid: 8732c8779db68be4d9513e5bae01a124, type: 3}
+  - _light: {fileID: 7483649364782282322, guid: 003399ba3f6843643a5c00cb48a45322,
+      type: 3}
+  - _finish: {fileID: 7217394179124173265, guid: 865a1a84a07026c4e8beff0efadf0f91,
+      type: 3}
+  - _level: {fileID: 4167720330470436946, guid: 4d6e48df49fb8654e81df7c50d1a8af8,
+      type: 3}
+  - _particle: {fileID: 7700185154844980737, guid: 553a353f75ff25f4cb6397223df7676f,
+      type: 3}
+  - adder: {fileID: 5365589143837467443, guid: 2997476500fdf0544b0ed7ddd2e807a7, type: 3}
+  - barrels: {fileID: 6438099605992558365, guid: e011f6ca217e0664b82b802baf41f423,
+      type: 3}
+  - changeDir: {fileID: 4876588504229741958, guid: 11da6313ac1c32449a7ca4b525e3ba5a,
+      type: 3}
+  - cone: {fileID: 7435223454673775681, guid: fbda4cdd4df2f6041b82aaaa8c1ef50a, type: 3}
+  - deadBlock: {fileID: 7531109291540780796, guid: 12428baadffe33745a0b788064aa5621,
+      type: 3}
+  - deadCycle: {fileID: 3130431197736603483, guid: 4ded5ce6ecca8394881eacf2f37d921f,
+      type: 3}
+  - deadPlatform: {fileID: 1480181376282981208, guid: 5d886f85706f99148962f908e9c30f6d,
+      type: 3}
+  - platform: {fileID: 3560731301800711648, guid: 46b81f12439cc724c86c13d68f90a123,
+      type: 3}
+  - mat_1: {fileID: 2100000, guid: 882bb4e0373e57d4bb386f13fc2a01cc, type: 2}
+  - mat_2: {fileID: 2100000, guid: 77eed6a7f3d6c9c4a8e11fc4e757673c, type: 2}
+  - mat_3: {fileID: 2100000, guid: e86688e2e206f244d8e85bf2a3f0a772, type: 2}
+  - mat_4: {fileID: 2100000, guid: 31972e6ab8e10aa4587f65d271200a8d, type: 2}
+  - mat_5: {fileID: 2100000, guid: b8b872ae3f555914a9092f52be74fdb2, type: 2}
+  - mat_6: {fileID: 2100000, guid: 524f0e909c1403248809a47093fec7c2, type: 2}
+  - mat_7: {fileID: 2100000, guid: 1c4a5884ad47c4040af6ec7297abbb56, type: 2}
+  - mat_8: {fileID: 2100000, guid: 324e236b6a5f43d468210443227a2fb6, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
