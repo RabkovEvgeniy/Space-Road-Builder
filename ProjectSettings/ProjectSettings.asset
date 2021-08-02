@@ -85,7 +85,7 @@ PlayerSettings:
   resizableWindow: 0
   useMacAppStoreValidation: 0
   macAppStoreCategory: public.app-category.games
-  gpuSkinning: 0
+  gpuSkinning: 1
   xboxPIXTextureCapture: 0
   xboxEnableAvatar: 0
   xboxEnableKinect: 0
@@ -146,7 +146,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.zaampogroup.maketheroad
+    Android: com.AniviaGame.SpaceRoadBuilder
     Standalone: unity.gamegamstudio.Car game
     Tizen: com.spacegamstudio.cargame
     iPhone: com.spacegamstudio.cargame
@@ -265,7 +265,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 99953eda8be5c684389ffdb14549f088, type: 3}
+      m_Icon: {fileID: 2800000, guid: 89db5519ff4503e439886dac810b023e, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0

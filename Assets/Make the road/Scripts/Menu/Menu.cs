@@ -106,6 +106,7 @@ public class Menu : MonoBehaviour
         if (!StartUpScript.TestingMode) //If it isn't testing mode
         { 
             levelId = levelId + 1; //Calculate new level id
+            if (levelId == 12) levelId = 1;
         }
         PlayerPrefs.SetInt("levelId", levelId); //Set level id
         nextLevel = levelId + 1; //Calculate next level id
